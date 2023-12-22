@@ -1,7 +1,8 @@
 # contact-form-7-crop-image
 Need Help message yagnikpadaliya72+github-contact-form-7-crop@gmail.com
 
-Follow For MORE > I have save your time more then Ai :) give me like
+Follow me For MORE :) 
+I have save your time more then Ai :) give me like
 
 # Contact Form 7 Crop Image Plugin
 
