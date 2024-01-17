@@ -1,4 +1,4 @@
-wp_enqueue_script('jcrop', includes_url('js/jcrop/jquery.Jcrop.min.js'), array('jquery'), '', true);
+wp_enqueue_script('jcrop', includes_url('js/jcrop/jquery.Jcrop.min.js'), array('jquery'), '', true);  - TEST
 wp_enqueue_style('jcrop-style', includes_url('js/jcrop/jquery.Jcrop.min.css'), array(), '');
 
 
